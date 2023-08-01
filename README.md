@@ -1,2 +1,2 @@
 # resume
-My Resume created by HTML, CSS and JavaScript
+My Resume, created by HTML, CSS and JavaScript
