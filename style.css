@@ -8,6 +8,10 @@ body{
 *{
 	margin: 0px; padding: 0px; font-family: 'Montserrat', sans-serif;
 }
+.profile-img img {
+	width: 100%;
+	height: auto;
+}
 .main{
 	background-color: white;
 	height: auto;
@@ -18,7 +22,7 @@ body{
 	top: 60%;
 }
 .left{
-	background-color: #fbb03b;
+	background-color: #522db8;
 	width: 200px;
 	height: 100%;
 	float: left;
@@ -34,8 +38,8 @@ body{
 	border-radius: 50%;
 	margin-bottom: 20px;
 	margin-left: 60px;
-	border: 10px solid #fbb03b;
-	box-shadow: 6px 7px 9px 5px #fbb03b73;
+	border: 10px solid 522db8;
+	box-shadow: 6px 7px 9px 5px #170647;
 }
 .profile-img img{
 	width: 100%;
@@ -47,7 +51,7 @@ body{
 .heading{
 	background-color: #4d4d4d;
 	padding: 10px;
-	color: #fbb03b;
+	color: 522db8;
 	text-align: left;
 	padding-left: 20px;
 	margin-right: -15px;
@@ -119,8 +123,8 @@ body{
 	margin-bottom: 10px;
 }
 .box-2{
-	padding: 0px 50px;
-	margin-top: 30px;
+	padding: 0px 30px;
+	margin-top: 20px;
 }
 .p2{
 	font-size: 10px;
@@ -146,5 +150,5 @@ h2{
 	margin-top: 10px;
 }
 .p3 span{
-	color: #ff9b00; padding-left: 20px;
+	color: #522db8; padding-left: 20px;
 }
